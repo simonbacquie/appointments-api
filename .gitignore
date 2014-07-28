@@ -1,0 +1,5 @@
+settings.rb
+logs
+logs/*
+pids
+pids/*
